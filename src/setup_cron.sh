@@ -1,3 +1,3 @@
 #!/bin/bash
-# This script should set up a CRON job to run cron.php every 24 hours.
+# This script should set up a CRON job to run cron.php every 5 minitues.
 # You need to implement the CRON setup logic here.
