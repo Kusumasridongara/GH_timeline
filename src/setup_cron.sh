@@ -1,5 +1,3 @@
-<?php
-require_once 'functions.php';
-
-// TODO: Implement the form and logic for email registration and verification
-?>
+#!/bin/bash
+# This script should set up a CRON job to run cron.php every 24 hours.
+# You need to implement the CRON setup logic here.
